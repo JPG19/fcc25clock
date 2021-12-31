@@ -1,0 +1,2 @@
+body{background:#1e555c;color:#fff;font-size:30px}.app,body{min-height:100vh;text-align:center}.app{align-items:center;display:flex;justify-content:center}.container{width:500px}.main-title{font-size:3rem}.counters{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}.timer-label{padding:2rem}.buttons{display:flex;gap:20px;justify-content:center;padding:20px 0 0}.timer{border:7px solid #13353a;border-radius:50 px;height:160 px;margin:20px auto 10px;position:relative;width:270 px}
+/*# sourceMappingURL=main.c481cdcc.css.map*/
